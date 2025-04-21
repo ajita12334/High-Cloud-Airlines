@@ -53,11 +53,11 @@ To explore and visualize airline operational data, focusing on passenger load fa
 
 - **Power BI Dashboard:** Includes KPI cards, filters, pie/bar charts for time series and carrier analysis.
 
-  <img src = " ">
+  <img src = "Screenshot 2025-04-21 144018.png ">
 
 - **Tableau Dashboard:** Interactive and visually rich dashboard with distance grouping, trend lines, and donut charts.
 
-  <img src = " ">
+  <img src = " Screenshot 2025-04-21 143819.png">
 
 - **Excel Dashboard:** Clean tabular and chart-based visuals with calculated metrics.
 
