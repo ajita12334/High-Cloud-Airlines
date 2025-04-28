@@ -61,7 +61,7 @@ To explore and visualize airline operational data, focusing on passenger load fa
 
 - **Excel Dashboard:** Clean tabular and chart-based visuals with calculated metrics.
 
-  <img src = " ">
+  <img src = "Excel_HighCloudAirlines.png ">
 
 
 
